@@ -251,7 +251,7 @@ main picture img {
     right: 0;
     background: var(--off-white);
     height: 100dvh;
-    width: 23.3rem;
+    width: 21.3rem;
     padding: 22rem 0 0 2.4rem;
     transition: all 0.3s ease-in-out;
     transform-origin: 100% 0%;

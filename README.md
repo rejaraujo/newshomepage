@@ -2,6 +2,12 @@
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Frejaraujo%2Fnewshomepage)
 
+## Screenshots
+
+|             Desktop             |            Mobile             |          Mobile Menu Open          |
+| :-----------------------------: | :---------------------------: | :--------------------------------: |
+| ![Desktop Design](/desktop.jpg) | ![Mobile Design](/mobile.jpg) | ![Mobile Design](/mobile-menu.jpg) |
+
 ## Technology stack
 
 - **Back-end:** [Next.js](https://nextjs.org/)
