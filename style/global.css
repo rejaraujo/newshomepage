@@ -253,8 +253,6 @@ main picture img {
     height: 100dvh;
     width: 21.3rem;
     padding: 22rem 0 0 2.4rem;
-    transition: all 0.3s ease-in-out;
-    transform-origin: 100% 0%;
   }
 
   .mobilenavigation ul li a {
@@ -291,8 +289,6 @@ main picture img {
     gap: 3rem;
     list-style-type: none;
     background: var(--off-white);
-    transition: all 0.3s ease-in-out;
-    transform-origin: 100% 0%;
   }
 
   .navigation ul li a {
